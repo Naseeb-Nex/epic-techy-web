@@ -76,7 +76,7 @@ body {
 }
 
 .firstlogobg {
-  background: rgba( 0, 0, 0, 0.7) url(epic-techy-web/resources/darkwood.jpg);
+  background: rgba( 0, 0, 0, 0.7) url('/resources/darkwood.jpg');
   height: 720px;
   background-size: cover;
   background-position: center;
