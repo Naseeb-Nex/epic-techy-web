@@ -1,8 +1,5 @@
 # epic-techy-web
 
-website construction
+My first step to the development carrier looks like this 😉.
 
 https://naseeb-nex.github.io/epic-techy-web/
-
-### In progress
-
